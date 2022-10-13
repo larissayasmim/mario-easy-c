@@ -9,10 +9,10 @@
   </h2>
   <h4 align="center">Developed with C programming language</h4>
   <p align="center">
-  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/mario-easy-c?style=flat-square">
-  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/mario-easy-c?style=flat-square">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?style=flat-square">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/vitorgiovane/zeruai-front-end">
+  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/mario-easy-c">
+  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/mario-easy-c?color=white">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=blue">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/projeto-bikcraft?color=red">
 </p>
 
 <br>
