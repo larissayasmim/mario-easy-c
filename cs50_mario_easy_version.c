@@ -3,26 +3,26 @@
 
 int main(void)
 {
-    // Pedir altura ao usuário
+    // Ask the user for height
     int h;
     do
 
     {
-        h = get_int("Height: \n");
+        h = get_int("Height: ");
     }
     while (h < 1 || h > 8);
 
-    // Escrever a pirâmide
-    int linha, espaço, coluna;
-    for (linha = 0; linha < h; linha++)
+    // write the pyramid
+    int row, space, column;
+    for (row = 0; row < h; row++)
     {
-        //Espaço para alinhar a direita
-        for (espaço = 0; espaço < h - linha - 1; espaço++)
+        // Space to align right
+        for (space = 0; space < h - row - 1; space++)
         {
             printf(" ");
         }
 
-        for (coluna = 0; coluna <= linha; coluna++)
+        for (column = 0; column <= row; column++)
         {
             printf("#");
         }
