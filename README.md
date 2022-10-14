@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-  <img  width="300px" alt="Mario Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665702410/Mario/mariofinalizado_vhhso8.png"/>
+  <img  width="300px" alt="Mario Titulo" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665710170/Mario/mariofinalizado-removebg-preview_liiayk.png"/>
 </p>
 <br>
   <h2 align="center">
