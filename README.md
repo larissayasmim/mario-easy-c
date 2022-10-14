@@ -31,5 +31,26 @@
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665707642/Mario/mario2c_vyfer1.png"/>
 <br>
 
+## :bricks: &nbsp; Enter invalid number
+<img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665709362/Mario/20221013_182743_1_online-video-cutter.com_1_f2ypor.gif"/>
+<br>
+
+## :bricks:  &nbsp; Technologies
+This project was developed with the following technologies:
+
+- C
+-  GitHub Codespace
+
+<br>
+
+## :page_with_curl: &nbsp; License
+This project is under the MIT license. See the [LICENSE](https://github.com/vitorgiovane/zeruai-front-end/blob/master/LICENSE) for more information.
+
+<br>
+
+---
+Developed by **Vitor Giovane** <span>&#x1f1e7;&#x1f1f7;</span>
+
+**[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/vitorgiovane)** 
 
 
