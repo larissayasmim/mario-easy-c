@@ -23,9 +23,12 @@
 - Print the hash pyramid
 <br>
 
-## :arrow_forward: &nbsp; User Registration
-<img alt="Zeruai" src="https://res.cloudinary.com/vitorgiovane/image/upload/v1592209017/zeruai/create-account_fdutl7.gif" />
+## :bricks: &nbsp; Enter a positive integer between 1 and 8, inclusive
+<img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665706963/Mario/mario1c_rvnapo.png"/>
+<br>
 
+## :bricks: &nbsp; Enter invalid number
+<img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665707642/Mario/mario2c_vyfer1.png"/>
 <br>
 
 
