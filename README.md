@@ -44,13 +44,13 @@ This project was developed with the following technologies:
 <br>
 
 ## :page_with_curl: &nbsp; License
-This project is under the MIT license. See the [LICENSE](https://github.com/vitorgiovane/zeruai-front-end/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/mario-easy-c/blob/main/LICENSE) for more information.
 
 <br>
 
 ---
-Developed by **Vitor Giovane** <span>&#x1f1e7;&#x1f1f7;</span>
+Developed by **Larissa Yasmim** <span>&#x1f1e7;&#x1f1f7;</span>
 
-**[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/vitorgiovane)** 
+**[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/larissayasmimpa)** 
 
 
