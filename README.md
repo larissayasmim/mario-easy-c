@@ -49,8 +49,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/lari
 <br>
 
 ---
-Developed by **Larissa Yasmim** <span>&#x1f1e7;&#x1f1f7;</span>
 
-**[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/larissayasmimpa)** 
+**[Talk to me :smile:&nbsp;:thumbsup:](https://www.linkedin.com/in/larissayasmimpa)** <span>&#x1f1e7;&#x1f1f7;</span>
 
 
