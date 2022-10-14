@@ -9,9 +9,9 @@
   </h2>
   <h4 align="center">Developed with C programming language</h4>
   <p align="center">
-  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/mario-easy-c">
+  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/mario-easy-c?color=red">
   <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/mario-easy-c?color=white">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=blue">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=white">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/mario-easy-c?color=red">
 </p>
 <br>
@@ -31,11 +31,11 @@
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665707642/Mario/mario2c_vyfer1.png"/>
 <br>
 
-## :bricks: &nbsp; Enter invalid number
+## :bricks: &nbsp; Execution
 <img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665709362/Mario/20221013_182743_1_online-video-cutter.com_1_f2ypor.gif"/>
 <br>
 
-## :bricks:  &nbsp; Technologies
+## :computer:  &nbsp; Technologies
 This project was developed with the following technologies:
 
 - C
