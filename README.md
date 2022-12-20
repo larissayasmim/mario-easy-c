@@ -24,7 +24,7 @@
 <br>
 
 ## :bricks: &nbsp; Enter a positive integer between 1 and 8, inclusive
-<img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665706963/Mario/mario1c_rvnapo.png"/>
+<img align="center" height="auto" width="500" alt="Imprimindo a piramide" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665707165/Mario/mario1c_rvnapo_bubapn.png"/>
 <br>
 
 ## :bricks: &nbsp; Enter invalid number
